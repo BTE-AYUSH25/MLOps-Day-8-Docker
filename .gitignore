@@ -1,3 +1,7 @@
+docker-images-backup/*.tar.gz
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +209,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Add the backup directory to .gitignore to prevent future issues of large size of docker images
+docker-images-backup/*.tar.gz
+docker ps -a --format {{.Names}} {{.Ports}} | grep 5000 | awk '{print }' | xargs -r dockerimages-backup/README.md

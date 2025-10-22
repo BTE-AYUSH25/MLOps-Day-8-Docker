@@ -1,0 +1,2 @@
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+87e51114c767   sharp_rubin   0.01%     19.16MiB / 7.758GiB   0.24%     1.87kB / 1.71kB   565kB / 0B   1

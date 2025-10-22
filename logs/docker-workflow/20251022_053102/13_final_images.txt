@@ -1,0 +1,6 @@
+REPOSITORY       TAG       IMAGE ID       CREATED          SIZE
+mlops-day8-app   latest    8252c5a63263   33 seconds ago   235MB
+<none>           <none>    ab7337efff4d   4 minutes ago    235MB
+<none>           <none>    715f0ceab327   8 minutes ago    135MB
+<none>           <none>    01a205c4493e   12 minutes ago   135MB
+<none>           <none>    d81859ba9b6e   31 minutes ago   135MB

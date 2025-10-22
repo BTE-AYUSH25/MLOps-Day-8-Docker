@@ -1,0 +1,3 @@
+CONTAINER ID   IMAGE            COMMAND                  CREATED          STATUS          PORTS                                         NAMES
+a5ed517b5b26   mlops-day8-app   "flask run --host=0.…"   4 minutes ago    Created                                                       practical_spence
+a8872e57059b   d81859ba9b6e     "flask run --host=0.…"   21 minutes ago   Up 21 minutes   0.0.0.0:5000->5000/tcp, [::]:5000->5000/tcp   keen_maxwell

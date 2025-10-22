@@ -1,0 +1,2 @@
+CONTAINER ID   NAME                                       CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O        PIDS
+1fc236411167   mlops-day8-app-container-20251022_053102   0.01%     18.96MiB / 7.758GiB   0.24%     806B / 126B   5.13MB / 106kB   1
