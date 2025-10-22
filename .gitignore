@@ -214,3 +214,5 @@ __marimo__/
 # Add the backup directory to .gitignore to prevent future issues of large size of docker images
 docker-images-backup/*.tar.gz
 docker ps -a --format {{.Names}} {{.Ports}} | grep 5000 | awk '{print }' | xargs -r dockerimages-backup/README.md
+docker-images-backup/*.tar.gz
+docker ps -a --format {{.Names}} {{.Ports}} | grep 5000 | awk '{print }' | xargs -r dockerimages-backup/README.md
